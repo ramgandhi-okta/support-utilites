@@ -1,3 +1,4 @@
+# Requires Python 3 or above
 # Install dependencies 
 # pip install okta
 import asyncio
